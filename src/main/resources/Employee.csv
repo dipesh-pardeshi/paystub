@@ -1,0 +1,4 @@
+employeeId,basic,state
+1,20000,california
+2,40000,texas
+3,40000,InvalidState,// error case : not associated with tax
